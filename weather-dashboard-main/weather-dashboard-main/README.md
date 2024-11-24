@@ -1,26 +1,4 @@
 
-
-
-<table >
-  <tr>
-    <td width="50%">
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Challenges](#challenges)
-- [Dependencies](#dependencies)
-- [API Keys](#api keys)
-- [Installation](#installation)
-- [Build and Deploy](#build-and-deploy)
-- [Video](#video)
-- [License](#license)
-
-    
-</table>
-
 -------------------------------------------------
 
 ## Introduction
